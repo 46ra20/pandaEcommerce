@@ -1,0 +1,19 @@
+.bg-custom{
+    background-color: #feeae9;
+    padding: 30px;
+}
+.btn-custom{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.carousel-buttom-size{
+    /* position: relative;
+    right:0; */
+    width: 7%;
+}
+.ht-custom img{
+    height: 120px;
+}
